@@ -167,7 +167,3 @@ skills = {
 **⭐ Don't forget to star my repositories if you find them useful!**
 
 </div>
-
-<div align="center">
-  <img src="https://github.com/alvinagustiar/alvinagustiar/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</div>
