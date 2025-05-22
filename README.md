@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Alfin Agustiar
+# Hi there! 👋 I'm Alvin Agustiar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Front+End+Developer;Mobile+App+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 ## 🚀 About Me
 
 ```javascript
-const alfin = {
+const alvin = {
     title: "Front End Developer | Freelancer",
     location: "Indonesia 🇮🇩",
-    education: "Computer Science - SMP-SMA Pandawa",
+    education: "Computer Science - Bumigora University",
     experience: "Active student with hands-on development experience",
     currentFocus: "Building responsive web applications and mobile apps",
     funFact: "I love turning ideas into reality through code!"
