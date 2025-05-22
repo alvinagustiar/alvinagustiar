@@ -23,10 +23,10 @@ const alfin = {
 ### 💼 Professional Experience
   
 **📚 Organization & Tutoring** `July 2022 - December 2024`
-- 👨‍💼 Head of OSIS SMA Pandawa (2022-2024)
+- 👨‍💼 Head of OSIS SMA Pandawa (2022-2023)
 - 🎯 Leading event planning, time management, and task distribution
-- 👨‍🏫 Deputy Head of OSIS SMP Pandawa (2020-2022)
-- 📖 English Tutor at Pondok Pesantren Daruttaqwa (2021-2023)
+- 👨‍🏫 Deputy Head of OSIS SMP Pandawa (2020-2021)
+- 📖 English Tutor at Pondok Pesantren Daruttaqwa (2020-2021)
 - 🎤 Managing learning modules and leading discussion sessions
 
 </div>
@@ -119,8 +119,8 @@ const alfin = {
 
 | 🎓 Education | 📅 Period | 🏫 Institution |
 |-------------|-----------|----------------|
-| **Computer Science** | 2018-2024 | SMP-SMA Pandawa |
 | **Religious Studies** | 2018-2024 | SMP-SMA Pandawa |
+| **Computer Client**   | 2024- Now | Bumigora University|
 
 | 💻 Courses & Certifications | 📅 Year |
 |----------------------------|---------|
