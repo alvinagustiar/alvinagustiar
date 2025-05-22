@@ -74,7 +74,7 @@ const alfin = {
 - 💻 Built with ExpressJS & modern web technologies
 - 🎨 Responsive design with clean UI/UX
 - 📱 Mobile-friendly interface
-- 🔗 [View on GitHub](https://github.com/alvinagustiar/BackEndhweb-sekolah)
+- 🔗 [View on GitHub](https://github.com/alvinagustiar/BackEnd-web-sekolah)
 
 </td>
 <td width="50%">
@@ -125,8 +125,8 @@ const alfin = {
 | 💻 Courses & Certifications | 📅 Year |
 |----------------------------|---------|
 | **JavaScript Fundamentals - DBS Foundation Dicoding** | 2024 |
-| **Fullstack Code Politan Class** | 2025 |
-| **Backend Development with PHP Laravel - Angga** | 2024 |
+| **Kelas Fullstack - Code Politan Class** | 2025 |
+| **Backend Development with PHP Laravel - Build With Angga** | 2024 |
 
 </div>
 
