@@ -74,7 +74,7 @@ const alfin = {
 - 💻 Built with ExpressJS & modern web technologies
 - 🎨 Responsive design with clean UI/UX
 - 📱 Mobile-friendly interface
-- 🔗 [View on GitHub](https://github.com/alvinagustiar)
+- 🔗 [View on GitHub](https://github.com/alvinagustiar/BackEndhweb-sekolah)
 
 </td>
 <td width="50%">
@@ -83,7 +83,7 @@ const alfin = {
 - 🏥 Healthcare management system
 - 📊 Patient registration and management
 - 🔒 Secure data handling
-- 🔗 [View on GitHub](https://github.com/alvinagustiar)
+- 🔗 [View on GitHub](https://github.com/alvinagustiar/UPT-Dikbud-Kecamatan-Aikmel)
 
 </td>
 </tr>
