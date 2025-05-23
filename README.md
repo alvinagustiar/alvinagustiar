@@ -134,7 +134,7 @@ const alvin = {
 
 ```python
 skills = {
-    "Operasion System": ["Arch Linux", "Windows 11"],
+    "Operation System": ["Arch Linux", "Windows 11"],
     "Frontend": ["HTML5", "CSS3", "TailwindCSS", "JavaScript", "React.js"],
     "Backend": ["Node.js", "Express.js", "PHP", "Java"],
     "Mobile": ["Flutter", "Dart"],
