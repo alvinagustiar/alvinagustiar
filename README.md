@@ -79,7 +79,7 @@ const alvin = {
 </td>
 <td width="50%">
 
-**🏥 UPT Health Center Website**
+**🏥 UPT Center Website Aikmel Subdistrict **
 - 🏥 Healthcare management system
 - 📊 Patient registration and management
 - 🔒 Secure data handling
@@ -134,6 +134,7 @@ const alvin = {
 
 ```python
 skills = {
+    "Operasion System": ["Arch Linux", "Windows 11"],
     "Frontend": ["HTML5", "CSS3", "TailwindCSS", "JavaScript", "React.js"],
     "Backend": ["Node.js", "Express.js", "PHP", "Java"],
     "Mobile": ["Flutter", "Dart"],
@@ -151,7 +152,7 @@ skills = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvinagustiar774@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvinagustiar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alvinagustiarr)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/6285198457985)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285198457985)
 
 </div>
 
